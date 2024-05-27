@@ -23,7 +23,6 @@ const stories = [
       [
           "https://img.freepik.com/premium-vector/group-funny-tropical-birds-jungle_1196-721.jpg?t=st=1716530642~exp=1716531242~hmac=cde5e4d844b53db45ef23b05d78323c08530b3959891b73eadf87611d57f11b4",
           "https://img.freepik.com/free-vector/flat-design-hello-summer-concept_23-2148532646.jpg?size=626&ext=jpg",
-          "https://img.freepik.com/free-vector/young-woman-yacht-desk-beautiful-girl-with-red-flower-hair_107791-6394.jpg?t=st=1716530642~exp=1716531242~hmac=1308bcff936c5ee755b479eed056ab43d6c4090859da1c33e0b486d0d512743b",
         ],
       duration: 5000,
     },
